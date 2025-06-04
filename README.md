@@ -1,7 +1,7 @@
 # Hello World, I'm Mohd Yousuf 👋
 
 ## Summary
-🔹 I’m a 4th-year AI & DS Engineering student at Methodist College of Engineering and Technology.  
+🔹 I recently graduated with a degree in AI and Data Science Engineering from Methodist College of Engineering and Technology.
 🔹 Passionate about Web Development, AI and Data Science
 
 ## Current Tech Stack:
